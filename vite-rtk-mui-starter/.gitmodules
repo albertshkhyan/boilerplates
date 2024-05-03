@@ -1,0 +1,3 @@
+[submodule "vite-rtk-mui-starter"]
+	path = vite-rtk-mui-starter
+	url = git@github.com:albertshkhyan/vite-rtk-mui-starter.git
