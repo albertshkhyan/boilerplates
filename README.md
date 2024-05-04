@@ -18,7 +18,7 @@ This repository serves as a collection of starter templates, or "boilerplates," 
 ### React + Vite + Material-UI + Redux Toolkit Starter
 - **Description**: Kickstart your React projects with the lightning-fast Vite build tool, Material-UI for beautiful UI components, and Redux Toolkit for state management.
 - **Features**: Comes preconfigured with TypeScript, hot module replacement, routing, theming, and Redux DevTools integration.
-- **GitHub Repository**: [react-vite-mui-rtk-starter](https://github.com/yourusername/react-vite-mui-rtk-starter)
+- **GitHub Repository**: [react-vite-mui-rtk-starter](https://github.com/albertshkhyan/vite-rtk-mui-starter)
 
 _(Add more boilerplates as needed)_
 
